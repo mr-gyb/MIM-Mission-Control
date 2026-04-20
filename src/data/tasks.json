@@ -1,0 +1,68 @@
+[
+  {
+    "id": "OPS-001",
+    "title": "Upload receipts and store photos",
+    "bucket": "Daily Operations",
+    "category": "Store Execution",
+    "status": "todo",
+    "owner": "Driver / Helper",
+    "priority": "P0",
+    "notes": "Collect from all active routes before close.",
+    "updatedAt": "2026-04-16"
+  },
+  {
+    "id": "FIN-004",
+    "title": "Reconcile weekly fuel spend",
+    "bucket": "Financial System",
+    "category": "Cash Control",
+    "status": "in-progress",
+    "owner": "Operations Admin",
+    "priority": "P1",
+    "notes": "Cross-check card statements against route logs.",
+    "updatedAt": "2026-04-18"
+  },
+  {
+    "id": "HR-002",
+    "title": "Confirm onboarding docs for new helper",
+    "bucket": "People / HR",
+    "category": "Hiring",
+    "status": "waiting",
+    "owner": "People Ops",
+    "priority": "P1",
+    "notes": "Waiting on signed handbook acknowledgment.",
+    "updatedAt": "2026-04-19"
+  },
+  {
+    "id": "SAL-007",
+    "title": "Refresh outbound follow-up list",
+    "bucket": "Growth / Sales",
+    "category": "Pipeline",
+    "status": "todo",
+    "owner": "Sales Lead",
+    "priority": "P2",
+    "notes": "Focus on warm leads from last 30 days.",
+    "updatedAt": "2026-04-17"
+  },
+  {
+    "id": "INF-003",
+    "title": "Verify insurance certificate renewal",
+    "bucket": "Infrastructure / Compliance",
+    "category": "Compliance",
+    "status": "done",
+    "owner": "Founder",
+    "priority": "P0",
+    "notes": "Renewal packet stored in shared drive.",
+    "updatedAt": "2026-04-20"
+  },
+  {
+    "id": "OPS-006",
+    "title": "Lock tomorrow's route assignments",
+    "bucket": "Daily Operations",
+    "category": "Scheduling",
+    "status": "in-progress",
+    "owner": "Dispatch",
+    "priority": "P0",
+    "notes": "Need final van availability confirmation.",
+    "updatedAt": "2026-04-20"
+  }
+]

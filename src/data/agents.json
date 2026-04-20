@@ -1,0 +1,26 @@
+[
+  {
+    "id": "agt-01",
+    "name": "Dispatch Monitor",
+    "role": "Ops coverage",
+    "status": "online",
+    "focus": "Route execution and driver blockers",
+    "lastCheckIn": "2m ago"
+  },
+  {
+    "id": "agt-02",
+    "name": "Finance Watch",
+    "role": "Cash visibility",
+    "status": "watching",
+    "focus": "Expense review and reconciliation",
+    "lastCheckIn": "11m ago"
+  },
+  {
+    "id": "agt-03",
+    "name": "Growth Queue",
+    "role": "Lead follow-up",
+    "status": "idle",
+    "focus": "Outbound pipeline refresh",
+    "lastCheckIn": "27m ago"
+  }
+]
