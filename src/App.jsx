@@ -13,7 +13,7 @@ const viewMeta = {
   },
   agents: {
     title: 'Agents',
-    subtitle: 'Shell view for system coverage, check-ins, and future coordination.',
+    subtitle: 'Compact agent coverage view with filters, task state, and blockers.',
   },
   activity: {
     title: 'Activity Feed',

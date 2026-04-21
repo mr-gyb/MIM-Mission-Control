@@ -19,6 +19,14 @@
 - UI shell is visible and scaffolded
 - Dashboard, board, and agents routes render as static pages
 - No backend, database, API routes, or auth added
+- Agents page refined for deploy-ready scanning with summary metrics, filters, compact agent cards, consistent agent color tags, readable task state, and optional blocker display
+- Verified with `npm run build`
+
+## Files Changed
+- src/components/AgentCard.jsx
+- src/views/AgentsView.jsx
+- src/App.jsx
+- PROGRESS.md
 
 ## Next Step
-- Add local JSON seed data and wire simple presentational task cards, task columns, agent cards, filter bar, and activity feed into the existing shell
+- Add the task detail panel and continue responsive polish without changing the current local-data static architecture
