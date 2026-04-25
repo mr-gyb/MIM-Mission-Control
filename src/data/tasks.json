@@ -64,5 +64,16 @@
     "priority": "P0",
     "notes": "Need final van availability confirmation.",
     "updatedAt": "2026-04-20"
-  }
+  },
+{
+  "id": "CISCO-001",
+  "title": "Collect Discord receipt images and upload to Google Drive",
+  "bucket": "Infrastructure / Compliance",
+  "category": "Receipt Intake",
+  "status": "todo",
+  "ownerAgent": "cisco",
+  "priority": "P0",
+  "notes": "Run daily at 6:00 PM ET against the approved Discord channel",
+  "updatedAt": "2026-04-22"
+}
 ]

@@ -37,5 +37,18 @@
     "taskState": "in_progress",
     "lastUpdated": "2026-04-20T16:32:00Z",
     "blocker": ""
-  }
+  },
+{
+  "id": "cisco",
+  "name": "Cisco",
+  "emoji": "🧾",
+  "role": "Receipt Intake",
+  "label": "Media Ops",
+  "color": "cyan",
+  "status": "idle",
+  "currentTask": "Waiting for the daily Discord receipt sweep",
+  "taskState": "waiting",
+  "lastUpdated": "2026-04-22T18:00:00Z",
+  "blocker": ""
+}
 ]
